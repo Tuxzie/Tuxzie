@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Tuxzie, a college student curious about the ways computers work and how they process information.
-- 👀 I’m interested in data structures, programming, and networking! 
-- 🌱 I have a good chunk of experience wtih Python, C, and C++.
-- 💞️ I’m looking to collaborate on making games, web development, and cryptography.
-- 📫 You can reach me through my email: tuxziekc@gmail.com.
+Hello! I am just a college student trying to figure out IT, PC, and software-related stuff to learn from.
+
+I am Bing Bong from the game Peak. Rest assured, I will take a single valuable inventory slot and weigh you down.
+HOWEVER! What I take from you in terms of inventory space, I provide proportionally in emotional support. 
 
 <!---
 Tuxzie/Tuxzie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
