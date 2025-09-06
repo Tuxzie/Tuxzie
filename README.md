@@ -1,7 +1,9 @@
 Hello! I am just a college student trying to figure out IT, PC, and software-related stuff to learn from.
 
-I am Bing Bong from the game Peak. Rest assured, I will take a single valuable inventory slot and weigh you down.
-HOWEVER! What I take from you in terms of inventory space, I provide proportionally in emotional support. 
+I have hands-on IT experience from: home-labbing, virtualization, setting up desktops, printers, monitors,
+building PCs, dual-booting, etc. This is my profile and where I log what I've learned!
+
+I am Bing Bong from the game Peak.
 
 <!---
 Tuxzie/Tuxzie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
